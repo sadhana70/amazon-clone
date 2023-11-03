@@ -10,8 +10,8 @@ This is a simplified clone of the Amazon website, built using HTML and CSS. It r
 - Product detail pages.
 - A shopping cart.
 
-## Demo video
-[![Video](demo.mov)]
+## Demo 
+[Demo Link]([https://kind-cliff-097b89500.3.azurestaticapps.net/](https://yellow-field-049a0f500.4.azurestaticapps.net)).
 ## Clone
 Clone this repository to your local machine:
 
